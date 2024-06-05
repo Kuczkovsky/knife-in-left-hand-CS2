@@ -17,6 +17,7 @@ This script allows you to switch the knife to the left hand in Counter-Strike 2,
 ```
 C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
 ```
+- Move the knfie.cfg file to the folder.
 
 3. **Add the script to your configuration:**
 - Open the steam app.
